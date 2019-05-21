@@ -42,6 +42,21 @@ const HTML = ({
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossOrigin="anonymous"
       />
+      <script
+        src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"
+      />
+  <script
+  dangerouslySetInnerHTML={{
+    __html: `
+            var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "e952e343-8a3b-4b43-8e38-d7a2b599c88b",
+    });
+  });
+        `,
+  }}
+/>
       <link
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.1/jquery.fancybox.min.css"
