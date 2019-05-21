@@ -1,5 +1,5 @@
 {
-  "url": "https://alauddinalazad.com",
+  "License": "by",
   "meta": {
     "favicon": "https://i.imgur.com/FVO5UTyt.jpg",
     "keyword": "azad, blog, JavaScript",
@@ -8,79 +8,62 @@
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
   "name": "azad",
+  "gaTrackId": "UA-140634720-1",
   "about": "/2018/05/01/about-azad/",
-  "email": "saimon.azad@hotmail.com",
-  "stats": {
-    "image": "https://i.imgur.com/VjBWiSt.png",
-    "title": "Over the past 30 days",
-    "description": "Over the past 30 days"
-  },
-  "title": "Azad Technology blog",
-  "gitalk": {
-    "repo": "azad.github.io",
-    "admin": ["azad"],
-    "owner": "azad",
-    "clientID": "18255f031b5e11edd98a",
-    "clientSecret": "2ff6331da9e53f9a91bcc991d38d550c85026714",
-    "pagerDirection": "first",
-    "distractionFreeMode": true
-  },
-  "License": "by",
+  "navbarList": [
+    {
+      "title": "Works",
+      "href": "/2018/12/24/front-end-blog-system-review-2018/"
+    },
+    {
+      "title": "Message board",
+      "href": "/guestbook/"
+    },
+    {
+      "title": "Tags",
+      "href": "/tags/"
+    },
+    {
+      "title": "About the author",
+      "href": "/2018/05/01/about-azad/"
+    }
+  ],
+  "url": "https://alauddinalazad.com",
+  "gaOptimizeId": "GTM-WHP7SC5",
+  "redirectors": [
+    {
+      "fromPath": "/about/",
+      "toPath": "/2018/05/01/about-azad/"
+    }
+  ],
   "friends": [
     {
-      "href": "https://www.boatsky.com/",
-      "title": "太空船博客"
-    }, {
-      "href": "http://blog.shanamaid.top/",
-      "title": "娜酱骑士团"
-    }, {
-      "href": "https://clarencec.github.io/",
-      "title": "Clarence Blog"
-    }, {
-      "href": "http://f2ex.cn/",
-      "title": "F2EX"
-    }, {
-      "href": "https://jeffjade.com/",
-      "title": "晚晴幽草轩"
-    }, {
-      "href": "https://macplay.github.io/",
-      "title": "MacPlay"
+      "title": "太空船博客",
+      "href": "https://www.boatsky.com/"
+    },
+    {
+      "title": "娜酱骑士团",
+      "href": "http://blog.shanamaid.top/"
+    },
+    {
+      "title": "Clarence Blog",
+      "href": "https://clarencec.github.io/"
+    },
+    {
+      "title": "F2EX",
+      "href": "http://f2ex.cn/"
+    },
+    {
+      "title": "晚晴幽草轩",
+      "href": "https://jeffjade.com/"
+    },
+    {
+      "title": "MacPlay",
+      "href": "https://macplay.github.io/"
     }
   ],
   "iconUrl": "https://i.imgur.com/FVO5UTyt.jpg",
-  "wordings": [
-    "NodeJS, ReactJS", "Full-stack"
-  ],
-  "gaTrackId": "UA-84737574-3",
-  "navbarList": [
-    {
-      "href": "/2018/12/24/front-end-blog-system-review-2018/",
-      "title": "Works"
-    }, {
-      "href": "/guestbook/",
-      "title": "Message board"
-    }, {
-      "href": "/tags/",
-      "title": "Tags"
-    }, {
-      "href": "/2018/05/01/about-azad/",
-      "title": "About the author"
-    }
-  ],
-  "redirectors": [
-    {
-      "toPath": "/2018/05/01/about-azad/",
-      "fromPath": "/about/"
-    }
-  ],
-  "gaOptimizeId": "GTM-WHP7SC5",
-  "carouselItems": [
-    {
-      "src": "https://i.imgur.com/gw91CuI.jpg",
-      "target": "/stats/"
-    }
-  ],
-  "zhihuUsername": "piao-xue-wu-ying",
-  "githubUsername": "saimonazad",
-  "maxPostsInPage": 10
+  "title": "Azad Technology blog",
+  "email": "saimon.azad@hotmail.com",
+  "zhihuUsername": "piao-xue-wu-ying"
 }
