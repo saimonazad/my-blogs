@@ -18,10 +18,10 @@
   "title": "Azad Technology blog",
   "gitalk": {
     "repo": "azad.github.io",
-    "admin": ["azad"],
-    "owner": "azad",
-    "clientID": "18255f031b5e11edd98a",
-    "clientSecret": "2ff6331da9e53f9a91bcc991d38d550c85026714",
+    "admin": ["saimonazad"],
+    "owner": "saimonazad",
+    "clientID": "54ad539178067f60f348",
+    "clientSecret": "3b0d646703d063beaa2202cea2a8dbc4677cd813",
     "pagerDirection": "first",
     "distractionFreeMode": true
   },
