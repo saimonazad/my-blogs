@@ -17,7 +17,7 @@
   },
   "title": "Azad Technology blog",
   "gitalk": {
-    "repo": "https://github.com/saimonazad/my-blogs",
+    "repo": "https://saimonazad.github.io/my-blogs/",
     "admin": ["saimonazad"],
     "owner": "saimonazad",
     "clientID": "54ad539178067f60f348",
